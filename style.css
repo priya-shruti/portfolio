@@ -1,0 +1,90 @@
+#icons {
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+#icons i.fa {
+    font-size: 60px;
+    color: white;
+}
+
+#zoom1 {
+    padding: 50px;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+#zoom1:hover {
+    transform: scale(1.5);
+}
+
+#zoom2 {
+    padding: 50px;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+#zoom2:hover {
+    transform: scale(1.5);
+}
+
+#zoom3 {
+    padding: 50px;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+#zoom3:hover {
+    transform: scale(1.5);
+}
+
+#zoom4 {
+    padding: 50px;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+#zoom4:hover {
+    transform: scale(1.5);
+}
+#zoom5 {
+    padding: 50px;
+    transition: transform .2s; 
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+#zoom5:hover {
+    transform: scale(1.5);
+  }
+  #zoom6 {
+    padding: 50px;
+    transition: transform .2s; 
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+#zoom6:hover {
+    transform: scale(1.5);
+  }
+  #zoom7 {
+    padding: 50px;
+    transition: transform .2s; 
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+#zoom7:hover {
+    transform: scale(1.5);
+  }
